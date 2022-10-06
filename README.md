@@ -1,2 +1,2 @@
 # ArduinoTrening
-Arduino filer for MAKE NTNU
+Arduino files for the electronics team for MAKE NTNU.
