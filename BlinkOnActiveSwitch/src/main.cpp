@@ -1,11 +1,13 @@
 #include <Arduino.h>
 
-//#define LED_PIN 12
+//Defining the delay time in milliseconds
 #define DELAY_TIME 200
 
+//Defining the input and output pins
 const int ledPin = 12;
 const int buttonPin = 8;
 
+//Blink function
 void Blink(const int &ledPin){
   digitalWrite(ledPin, LOW);
   delay(DELAY_TIME);
